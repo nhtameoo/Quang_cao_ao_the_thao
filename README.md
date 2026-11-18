@@ -181,7 +181,7 @@ Giảng viên hướng dẫn: **TS. Lê Xuân Chiến** – Khoa Điện – Đi
 ---
 
 ## Giấy phép và bản quyền
-
+- Link video chạy: https://drive.google.com/drive/folders/1hUJ3qt0qNqHf-rLp4zPD3QO6xtg76Wi2?usp=drive_link
 - Thư viện **Ultralytics YOLO** được phát hành theo giấy phép **AGPL-3.0**; nếu bạn phân phối lại chương trình dùng thư viện này, hãy tìm hiểu điều kiện của giấy phép đó.
 - Video thể thao, logo thương hiệu (Coca-Cola, IKEA) và các ảnh trích từ nguồn khác thuộc quyền của chủ sở hữu; repo chỉ dùng cho **mục đích học tập**, không chứa các tệp này.
 
